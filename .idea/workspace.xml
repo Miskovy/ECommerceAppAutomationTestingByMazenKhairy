@@ -5,44 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20202c86-2564-4054-9295-a63af626a2ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F01_Register.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F02_Login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F03_ResetPass.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F04_Search.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F05_Currency.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F06_DifferentCategoryHover.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F07_UserFilterWithColor.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F08_SelectTags.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F09_AddToCart.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F10_AddToWishlist.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F11_AddToComparelist.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F12_Order.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P01_register.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P02_Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P03_HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P04_CheckoutPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/D01_Register.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/D02_Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/D03_ResetPass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/D04_Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/D05_Currency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/D06_DifferentCategoryHover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/D07_UserFilterWithColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/D08_SelectTags.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/D09_AddToCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/D10_AddToWishlist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/D11_AddToComparelist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/D12_Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/testRunner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Required Screenshots/CucumberJavaVersion.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Required Screenshots/CucumberTestngVersion.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Required Screenshots/Dependencies.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Required Screenshots/EnvironementVariables3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Required Screenshots/EnvironementVariables4.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Required Screenshots/EnvironementVariables5.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Required Screenshots/ExternalLiberaries.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Required Screenshots/ExternalLiberaries2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Required Screenshots/ExternalLiberaries3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Required Screenshots/ExternalLiberaries4.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Required Screenshots/IntellijPlugins.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Required Screenshots/IntellijPlugins2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Required Screenshots/MVNSettings1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Required Screenshots/MVNVersionfromwebsite.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Required Screenshots/MVNVersionfromwebsite2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Required Screenshots/SeleniumJavaVersion.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Required Screenshots/TestExecutionReport.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Required Screenshots/TestNGVersion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overview-features.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,16 +60,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Miskovy/Work/Prof. Sw Test Udacity/Front End Testing/E-Commerce App Automation Testing/ECommerceAppAutomationTestingByMazenKhairy/src/main/resources/features&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "E:/Miskovy/Work/Prof. Sw Test Udacity/Front End Testing/E-Commerce App Automation Testing/ECommerceAppAutomationTestingByMazenKhairy/src/main/resources/features",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Miskovy\Work\Prof. Sw Test Udacity\Front End Testing\E-Commerce App Automation Testing\ECommerceAppAutomationTestingByMazenKhairy\src\main\resources\features" />
