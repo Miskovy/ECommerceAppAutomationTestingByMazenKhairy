@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20202c86-2564-4054-9295-a63af626a2ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F01_Register.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F02_Login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F03_ResetPass.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F04_Search.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F05_Currency.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F06_DifferentCategoryHover.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F07_UserFilterWithColor.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F08_SelectTags.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F09_AddToCart.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F10_AddToWishlist.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F11_AddToComparelist.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F12_Order.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P01_register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P02_Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P03_HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P04_CheckoutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/D01_Register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/D02_Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/D03_ResetPass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/D04_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/D05_Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/D06_DifferentCategoryHover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/D07_UserFilterWithColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/D08_SelectTags.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/D09_AddToCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/D10_AddToWishlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/D11_AddToComparelist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/D12_Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/testRunner/TestRunner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/apache-maven-3.8.6" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2IJHGAvxHIAftS2iLTsiECyF7hk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Miskovy/Work/Prof. Sw Test Udacity/Front End Testing/E-Commerce App Automation Testing/ECommerceAppAutomationTestingByMazenKhairy/src/main/resources/features&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Miskovy\Work\Prof. Sw Test Udacity\Front End Testing\E-Commerce App Automation Testing\ECommerceAppAutomationTestingByMazenKhairy\src\main\resources\features" />
+      <recent name="E:\Miskovy\Work\Prof. Sw Test Udacity\Front End Testing\E-Commerce App Automation Testing\ECommerceAppAutomationTestingByMazenKhairy\src\test\java\org\example\pages" />
+      <recent name="E:\Miskovy\Work\Prof. Sw Test Udacity\Front End Testing\E-Commerce App Automation Testing\ECommerceAppAutomationTestingByMazenKhairy\src\test\java\org\example" />
+      <recent name="E:\Miskovy\Work\Prof. Sw Test Udacity\Front End Testing\E-Commerce App Automation Testing\ECommerceAppAutomationTestingByMazenKhairy\src\test\java\org\example\stepDefs" />
+      <recent name="E:\Miskovy\Work\Prof. Sw Test Udacity\Front End Testing\E-Commerce App Automation Testing\ECommerceAppAutomationTestingByMazenKhairy\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Miskovy\Work\Prof. Sw Test Udacity\Front End Testing\E-Commerce App Automation Testing\ECommerceAppAutomationTestingByMazenKhairy\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.stepDefinitions" />
+      <recent name="org.example.pages" />
+      <recent name="org.example.runner" />
+      <recent name="org.example.stepDefs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Feature: F12_Order">
+    <configuration name="Feature: F08_SelectTags" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/F08_SelectTags.feature" />
+      <option name="GLUE" value="org.example.stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ECommerceAppAutomationTestingByMazenKhairy" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: F08_SelectTags" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: F09_AddToCart" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/F09_AddToCart.feature" />
+      <option name="GLUE" value="org.example.stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ECommerceAppAutomationTestingByMazenKhairy" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: F09_AddToCart" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: F10_AddToWishlist" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/F10_AddToWishlist.feature" />
+      <option name="GLUE" value="org.example.stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ECommerceAppAutomationTestingByMazenKhairy" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: F10_AddToWishlist" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: F11_AddToComparelist" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/F11_AddToComparelist.feature" />
+      <option name="GLUE" value="org.example.stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ECommerceAppAutomationTestingByMazenKhairy" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: F11_AddToComparelist" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: F12_Order" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/F12_Order.feature" />
+      <option name="GLUE" value="org.example.stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ECommerceAppAutomationTestingByMazenKhairy" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: F12_Order" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Feature: F12_Order" />
+      <item itemvalue="Cucumber Java.Feature: F08_SelectTags" />
+      <item itemvalue="Cucumber Java.Feature: F09_AddToCart" />
+      <item itemvalue="Cucumber Java.Feature: F10_AddToWishlist" />
+      <item itemvalue="Cucumber Java.Feature: F11_AddToComparelist" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Feature: F12_Order" />
+        <item itemvalue="Cucumber Java.Feature: F11_AddToComparelist" />
+        <item itemvalue="Cucumber Java.Feature: F10_AddToWishlist" />
+        <item itemvalue="Cucumber Java.Feature: F09_AddToCart" />
+        <item itemvalue="Cucumber Java.Feature: F08_SelectTags" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20202c86-2564-4054-9295-a63af626a2ec" name="Changes" comment="" />
+      <created>1669892669039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669892669039</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
